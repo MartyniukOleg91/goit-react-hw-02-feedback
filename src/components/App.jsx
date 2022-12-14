@@ -10,7 +10,7 @@ export const App = () => {
         color: '#010101'
       }}
     >
-      React homework template
+     const link = <a href="https://reactjs.org/">React website</a>; 
     </div>
   );
 };
