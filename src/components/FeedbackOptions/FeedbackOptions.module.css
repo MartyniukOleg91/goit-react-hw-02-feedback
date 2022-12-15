@@ -27,22 +27,26 @@
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
+  border-radius: 20%;
 }
 
-.feedbackBtn:focus {
+.feedbackBtn:focus {  
   color: #171e29;
+
 }
 
 .feedbackBtn:hover {
   border-color: #06f;
   color: #06f;
   fill: #06f;
+  
 }
 
 .feedbackBtn:active {
   border-color: #06f;
   color: #06f;
   fill: #06f;
+    background-color: tomato;
 }
 
 .feedbackBtn:nth-of-type(even) {
