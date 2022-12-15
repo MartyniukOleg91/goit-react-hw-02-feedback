@@ -1,5 +1,6 @@
 .feedbackBtn {
     display: inline-flex;
+    margin-left: 100px;
 }
 
 .feedbackBtn {
@@ -29,6 +30,7 @@
   touch-action: manipulation;
   border-radius: 50%;
   background-color: rgb(124, 241, 14);
+  margin-left: 50px;
 }
 
 .feedbackBtn:focus {  
@@ -50,6 +52,4 @@
     background-color: red;
 }
 
-.feedbackBtn:nth-of-type(even) {
-    margin: auto 5rem;
-}
+
