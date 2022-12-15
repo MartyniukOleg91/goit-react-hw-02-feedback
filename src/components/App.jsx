@@ -44,7 +44,7 @@ export class App extends Component {
           alignItems: 'center',
           fontSize: 40,
           color: '#010101',
-          backgroundColor: 'tomato',
+          backgroundColor: 'grey',
         }}
       >
         <Section title="Please leave feedback">
