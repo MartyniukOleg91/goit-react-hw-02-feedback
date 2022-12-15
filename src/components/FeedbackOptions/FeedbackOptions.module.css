@@ -48,9 +48,3 @@
 .feedbackBtn:nth-of-type(even) {
     margin: auto 5rem;
 }
-
-@media (min-width: 768px) {
-  .feedbackBtn {
-    min-width: 170px;
-  }
-}
