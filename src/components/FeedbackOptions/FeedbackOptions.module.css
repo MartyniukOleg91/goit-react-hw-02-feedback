@@ -27,7 +27,8 @@
   user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
-  border-radius: 20%;
+  border-radius: 50%;
+  background-color: rgb(124, 241, 14);
 }
 
 .feedbackBtn:focus {  
@@ -46,7 +47,7 @@
   border-color: #06f;
   color: #06f;
   fill: #06f;
-    background-color: tomato;
+    background-color: red;
 }
 
 .feedbackBtn:nth-of-type(even) {
